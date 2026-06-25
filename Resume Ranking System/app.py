@@ -239,6 +239,6 @@ if st.button("Rank Resumes"):
 
         st.subheader("📊 Resume Match Scores")
 
-        st.bar_chart(chart_data)
+        st.bar_chart(chart_data)    
 
 

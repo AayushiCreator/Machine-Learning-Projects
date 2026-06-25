@@ -1,0 +1,52 @@
+Software Engineer – Job Description
+
+We are looking for a passionate and detail-oriented Software Engineer to join our growing technology team. The ideal candidate should have strong problem-solving skills, a solid understanding of software development principles, and the ability to work collaboratively in a fast-paced environment. The candidate will be responsible for designing, developing, testing, debugging, and maintaining scalable software applications and systems.
+
+Key Responsibilities:
+
+• Design, develop, and maintain high-quality software applications and backend services.
+• Write clean, efficient, reusable, and well-documented code following industry best practices.
+• Collaborate with cross-functional teams including developers, designers, testers, and product managers to deliver software solutions.
+• Analyze user requirements and convert them into technical specifications and functional applications.
+• Participate in all phases of the software development lifecycle (SDLC) including requirement gathering, development, testing, deployment, and maintenance.
+• Troubleshoot, debug, and optimize application performance.
+• Develop RESTful APIs and integrate third-party services and APIs when required.
+• Work with databases to design schemas, write queries, and optimize data storage solutions.
+• Ensure software security, scalability, and reliability standards are maintained.
+• Conduct code reviews and contribute to improving development standards and processes.
+• Stay updated with emerging technologies, frameworks, and software engineering trends.
+• Collaborate using version control systems like Git and GitHub.
+• Assist in deployment, monitoring, and cloud-based application management.
+• Create technical documentation and reports for developed systems.
+• Work in Agile/Scrum development environments and participate in sprint planning and daily stand-ups.
+
+Required Skills and Qualifications:
+
+• Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or related field.
+• Strong programming knowledge in Python, Java, C++, or JavaScript.
+• Experience with web technologies such as HTML, CSS, JavaScript, React, Node.js, or Angular.
+• Understanding of Object-Oriented Programming (OOP) concepts and Data Structures & Algorithms.
+• Familiarity with database systems such as MySQL, PostgreSQL, MongoDB, or SQL Server.
+• Knowledge of software testing, debugging, and performance optimization techniques.
+• Understanding of REST APIs, microservices architecture, and backend development concepts.
+• Familiarity with cloud platforms such as AWS, Azure, or Google Cloud Platform is a plus.
+• Experience with version control tools like Git and GitHub.
+• Knowledge of DevOps tools, Docker, Kubernetes, or CI/CD pipelines is an advantage.
+• Good communication, teamwork, and analytical thinking skills.
+
+Preferred Qualifications:
+
+• Internship or project experience in software development.
+• Knowledge of Machine Learning, Data Science, or AI concepts is an added advantage.
+• Familiarity with cybersecurity best practices and secure coding standards.
+• Experience building scalable applications or working on real-world projects.
+
+Benefits:
+
+• Opportunity to work on real-world challenging projects.
+• Collaborative and learning-focused work environment.
+• Career growth and skill development opportunities.
+• Flexible work environment and exposure to modern technologies.
+• Health benefits and performance-based incentives.
+
+We are seeking candidates who are enthusiastic about technology, eager to learn, and capable of building impactful software solutions that solve real-world problems.
